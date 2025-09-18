@@ -37,5 +37,3 @@
 
 **Summary:**  
 This dataset provides soil and climate measurements with a corresponding recommended crop. It is well-structured, fully numeric (except the label), and balanced—making it ideal for the classification workflows demonstrated in your notebook, including training, tuning, and user prediction functions.
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/107818769/baf9e3a2-7974-4e83-9901-66996e03dd0a/Crop_recommendation.csv)
