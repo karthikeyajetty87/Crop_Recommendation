@@ -1,7 +1,3 @@
-Here’s a **brief description** of the dataset "Crop_recommendation.csv" and how it is used in your code:
-
-***
-
 ### **Dataset Overview**
 - **Rows / Samples:** 2,200 (each row is an observed soil/environment sample)
 - **Columns / Features:** 8
